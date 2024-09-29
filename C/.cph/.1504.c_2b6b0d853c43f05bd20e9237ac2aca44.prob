@@ -1,0 +1,1 @@
+{"name":"Local: 1504","url":"d:\\BOJ\\C\\1504.c","tests":[{"id":1727077853594,"input":"4 6\n1 2 3\n2 3 3\n3 4 1\n1 3 5\n2 4 5\n1 4 4\n2 3","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\BOJ\\C\\1504.c","group":"local","local":true}
