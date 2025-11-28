@@ -1,1 +1,0 @@
-{"name":"Local: 2644","url":"d:\\BOJ\\C\\2644.c","tests":[{"id":1727238540213,"input":"9\n7 3\n7\n1 2\n1 3\n2 7\n2 8\n2 9\n4 5\n4 6","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\BOJ\\C\\2644.c","group":"local","local":true}
